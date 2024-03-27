@@ -5,6 +5,4 @@
 # /Cargo.lock
 
 # Editor / IDE specific files
-.vscode/
-.devcontainer/
 *.swp
