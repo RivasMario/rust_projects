@@ -1,6 +1,7 @@
 # Compiled code
 **/target
 **/taget/.rustc_info.json 
+**/target/debug
 # This is optional - if you want to track dependency versions closely
 # /Cargo.lock
 
