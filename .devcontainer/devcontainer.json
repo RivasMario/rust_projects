@@ -5,7 +5,9 @@
 		"ms-vsliveshare.vsliveshare",
 		"matklad.rust-analyzer",
 		"serayuzgur.crates",
-		"vadimcn.vscode-lldb"
+		"vadimcn.vscode-lldb",
+		"ms-azuretools.vscode-docker",
+		"1YiB.rust-bundle"
 	],
 	"dockerFile": "Dockerfile",
 	"settings": {
