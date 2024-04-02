@@ -8,6 +8,8 @@ apt-get install -y \
   sudo \
   zsh \
   vim \
+  npm\
+  pkg-config \
   build-essential \
   openssl
 
@@ -23,8 +25,6 @@ cargo install cargo-expand
 cargo install cargo-edit
 cargo install cargo-generate
 cargo install wasm-pack
-
-sudo apt install nodejs
 
 ## setup and install oh-my-zsh
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
